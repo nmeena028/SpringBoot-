@@ -1,8 +1,0 @@
-Tech: Java 11, Spring Boot, Spring WebSocket, HTML, CSS, JavaScript 
-Built a real-time chat app with WebSocket backend
-Custom-styled frontend for smooth user experience. 
-Implemented WebSocket-based messaging layer in Spring Boot for low-latency
-Bidirectional chat 
-Designed a responsive chat UI with custom backgrounds
-Clean layout
-Smooth user interactions.
